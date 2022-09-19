@@ -1,0 +1,6 @@
+numpy==1.18.1
+scikit-image==0.16.2
+Shapely==1.8.4
+tqdm==4.48.2
+torch==1.8.1
+torch_summary==1.4.5
